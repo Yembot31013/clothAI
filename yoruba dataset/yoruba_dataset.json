@@ -1,0 +1,64 @@
+{
+  "data": [
+    {
+      "text": "Ẹ káàsán",
+      "english": "Good afternoon",
+      "audio path": "e_kaasan.mp3",
+      "label": "greeting"
+    },
+    {
+      "text": "Ẹ káàrọ̀",
+      "english": "Good Morning",
+      "audio path": "e_kaaro.mp3",
+      "label": "greeting"
+    },
+    {
+      "text": "O kú",
+      "english": "It's dead",
+      "audio path": "o_ku.mp3",
+      "label": "statement"
+    },
+    {
+      "text": "E jòwò",
+      "english": "Please",
+      "audio path": "e_jowo.mp3",
+      "label": "request"
+    },
+    {
+      "text": "Mo ní ìwé",
+      "english": "I have a book",
+      "audio path": "mo_ni_iwe.mp3",
+      "label": "statement"
+    },
+    {
+      "text": "Kí ló ṣe ń ṣe?",
+      "english": "What are you doing?",
+      "audio path": "ki_lo_se_n_se.mp3",
+      "label": "question"
+    },
+    {
+      "text": "Dúró",
+      "english": "stop",
+      "audio path": "duro.mp3",
+      "label": "command"
+    },
+    {
+      "text": "Jẹ́ kí ń wọ ìwé ẹ̀",
+      "english": "Let me try on the clothes",
+      "audio path": "je_ki_n_wo_iwe_e.mp3",
+      "label": "command"
+    },
+    {
+      "text": "Àwúyọ!",
+      "english": "Wow!",
+      "audio path": "awuyo.mp3",
+      "label": "exclamation"
+    },
+    {
+      "text": "Ẹgbẹ́ wá o!",
+      "english": "help us!",
+      "audio path": "egbe_wa_o.mp3",
+      "label": "exclamation"
+    }
+  ]
+}
